@@ -1,0 +1,10 @@
+.btn:active
+{
+    transition-property: all;
+	transition: transform 450ms, background-color 300ms;
+    background-color:skyblue;
+	transform : scale(1.15);
+    
+    color:white;
+
+}
